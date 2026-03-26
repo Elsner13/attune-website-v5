@@ -45,4 +45,16 @@
     pointer-events: none;
     z-index: 1;
   }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar { width: 4px; }
+  ::-webkit-scrollbar-track { background: #080806; }
+  ::-webkit-scrollbar-thumb { background: rgba(225,29,72,0.3); }
+  ::-webkit-scrollbar-thumb:hover { background: rgba(225,29,72,0.6); }
+
+  /* Text selection */
+  ::selection { background: rgba(225,29,72,0.3); color: #F2EDD7; }
+
+  /* Focus ring */
+  :focus-visible { outline: 1px solid rgba(225,29,72,0.5); outline-offset: 2px; }
 }
