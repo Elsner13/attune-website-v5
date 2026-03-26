@@ -15,7 +15,7 @@ export function FoundationsHero() {
         I spent five years integrating ecological psychology, Stoic philosophy, and motor learning into one coherent lens. You can install it in eight hours.
       </motion.p>
       <motion.div initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.5 }} className="flex flex-col items-center gap-2">
-        <Link href="https://attunemastery.com/checkout" className="inline-block text-white text-[11px] tracking-[0.15em] uppercase px-8 py-3 transition-colors" style={{ fontFamily: 'var(--font-mono)', background: '#E11D48' }}>
+        <Link href="https://buy.stripe.com/6oUaEX75TftH4GP77RefC06" className="inline-block text-white text-[11px] tracking-[0.15em] uppercase px-8 py-3 transition-colors" style={{ fontFamily: 'var(--font-mono)', background: '#E11D48' }}>
           Get Foundations — $197 →
         </Link>
         <p className="text-[10px] tracking-[0.08em]" style={{ fontFamily: 'var(--font-mono)', color: 'rgba(255,255,255,0.2)' }}>

@@ -28,7 +28,7 @@ export function PricingBlock() {
               </div>
             ))}
           </div>
-          <Link href="https://attunemastery.com/checkout" className="block text-white text-[11px] tracking-[0.15em] uppercase py-3 text-center transition-colors" style={{ fontFamily: 'var(--font-mono)', background: '#E11D48' }}>
+          <Link href="https://buy.stripe.com/6oUaEX75TftH4GP77RefC06" className="block text-white text-[11px] tracking-[0.15em] uppercase py-3 text-center transition-colors" style={{ fontFamily: 'var(--font-mono)', background: '#E11D48' }}>
             Get Foundations →
           </Link>
         </div>
